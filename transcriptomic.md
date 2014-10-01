@@ -4,6 +4,10 @@
 
 ### mice models
 
-* DTNBP enhances fast excitatory glutamatergic transmission mediated by AMPA receptors in hippocampal CA3-CA1 synapses  (http://www.ncbi.nlm.nih.gov/pubmed/24321452)
+* 2014 DTNBP enhances fast excitatory glutamatergic transmission mediated by AMPA receptors in hippocampal CA3-CA1 synapses  (http://www.ncbi.nlm.nih.gov/pubmed/24321452)
 
 These data provide compelling evidence that dysbindin, a widely suspected susceptibility protein in schizophrenia, is important for AMPAR-mediated synaptic transmission and plasticity in the developing hippocampus. 
+
+## miRNAs
+
+* 2014 (http://www.ncbi.nlm.nih.gov/pubmed/25084801) rs66642155 allelic variant of miRNA137 appears to influence age at onset and the severity of positive symptoms
