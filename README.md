@@ -20,3 +20,8 @@ Good links to start with:
 ![brain1](http://3.bp.blogspot.com/-rrWONk3d-c4/TsYMxqJhJAI/AAAAAAAABJA/1Ha-TOd16kQ/s1600/brain_functional_areas.jpg)
 ![brain2](http://upload.wikimedia.org/wikipedia/commons/3/35/Lateral_surface_of_cerebral_cortex_-_gyri.png)
 ![brain3](http://www.toxquebec.com/livre_drogues/en/images/cerveau_s_eng.gif)
+
+
+#Big projects
+
+* summary of  Psychiatric Genomics Consortium (PGC)  : (http://archpsyc.jamanetwork.com/article.aspx?articleid=1907154)
