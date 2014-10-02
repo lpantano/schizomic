@@ -11,3 +11,7 @@ These data provide compelling evidence that dysbindin, a widely suspected suscep
 ## miRNAs
 
 * 2014 (http://www.ncbi.nlm.nih.gov/pubmed/25084801) rs66642155 allelic variant of miRNA137 appears to influence age at onset and the severity of positive symptoms
+
+## mRNA
+
+* 2014 (http://www.ncbi.nlm.nih.gov/pubmed/25270546)  A significant decrease in GCH1 mRNA levels was observed in FEP (first episodes psychosis) patients relative to controls. This difference remains after treatment and it was correlated to methylation of its promoter
