@@ -5,3 +5,7 @@
 ### expressions
 
 * 2014 SMALL (http://www.ncbi.nlm.nih.gov/pubmed/25278104)  a SZ subgroup with predominantly paranoid symptoms that show  visuo-perceptual impairments
+
+### mortality
+
+* 2014 MEDIUM (http://www.ncbi.nlm.nih.gov/pubmed/25262443) schizophr bull , mortality gap in people with psychotic disorders remains huge and may be wider for unnatural-cause mortality than previously reported
