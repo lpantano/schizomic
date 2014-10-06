@@ -17,3 +17,5 @@ These data provide compelling evidence that dysbindin, a widely suspected suscep
 * 2014 (http://www.ncbi.nlm.nih.gov/pubmed/25270546)  A significant decrease in GCH1 mRNA levels was observed in FEP (first episodes psychosis) patients relative to controls. This difference remains after treatment and it was correlated to methylation of its promoter
 
 * 2014 NA stem cell report , high level of catecholamine in iPSC Neurons from skin of schizophrenic people , 2F+1M vs 2M+1F, http://dx.doi.org/10.1016/j.stemcr.2014.08.001
+
+* 2014 SMALL J Psychiatric Res, (http://www.ncbi.nlm.nih.gov/pubmed/25282281), deregulation of OR and TASR gene expression in the dorsolateral prefrontal cortex in schizophrenia (inversely associated with the daily chlorpromazine dose). 
