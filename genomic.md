@@ -2,13 +2,17 @@
 
 ### meta-analysis
 
-* 2014 doi:10.1176 The authors identified 42 SNP sets associated with a 70% or greater risk of schizophrenia, and confirmed 34 (81%) or more with similar high risk of schizophrenia in two independent samples.
-* 2014 (http://www.ncbi.nlm.nih.gov/pubmed/24342994) molecular confirmation of the genetic overlap between SCZ and general cognitive ability
-* 2014 LARGE (http://www.ncbi.nlm.nih.gov/pubmed/24349030)  plos one , cognitive functions share genetic factors with schizophrenia and bipolar disorder
-
+* 2014 Am J  LARGE Psychiatric, (http://www.ncbi.nlm.nih.gov/pubmed/25219520) The authors identified 42 SNP sets associated with a 70% or greater risk of schizophrenia, and confirmed 34 (81%) or more with similar high risk of schizophrenia in two independent samples.
+* 2014 LARGE Mol Psychiatric, (http://www.ncbi.nlm.nih.gov/pubmed/24342994) molecular confirmation of the genetic overlap between SCZ and general cognitive ability
+* 2014 LARGE PLoS One, (http://www.ncbi.nlm.nih.gov/pubmed/24349030) cognitive functions share genetic factors with schizophrenia and bipolar disorder
+*2014 LARGE Hum Genet, (http://www.ncbi.nlm.nih.gov/pubmed/25284466) top three methylation findings near genes SDCCAG8, CREB1 and ATXN7 in an independent sample using targeted pyrosequencing
 ## SV
 
 
 ### deletions
 
 * 2014 (http://www.ncbi.nlm.nih.gov/pubmed/25270547) deletion in mtDNA is lower in SZ but can be due to side effects of antipsychotic drugs 
+
+### variants
+
+* 2014 SMALL Neurol Sci  (http://www.ncbi.nlm.nih.gov/pubmed/25283873) a significant interaction effect of COMT and STH polymorphisms on cognitive performances
