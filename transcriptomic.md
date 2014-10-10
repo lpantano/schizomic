@@ -19,3 +19,5 @@ These data provide compelling evidence that dysbindin, a widely suspected suscep
 * 2014 NA stem cell report , high level of catecholamine in iPSC Neurons from skin of schizophrenic people , 2F+1M vs 2M+1F, http://dx.doi.org/10.1016/j.stemcr.2014.08.001
 
 * 2014 SMALL J Psychiatric Res, (http://www.ncbi.nlm.nih.gov/pubmed/25282281), deregulation of OR and TASR gene expression in the dorsolateral prefrontal cortex in schizophrenia (inversely associated with the daily chlorpromazine dose). 
+
+* 2014 NA J Neurosc, (http://www.ncbi.nlm.nih.gov/pubmed/25297099) the function of dysbindin in the dynamic morphogenesis of dendritic protrusions, and reveal the essential roles of dysbindin and CaMKIIα in the stabilization of dendritic protrusions during neuronal development. 
