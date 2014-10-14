@@ -9,3 +9,5 @@
 * 2014 SMALL Biol Psychiatric , (http://www.ncbi.nlm.nih.gov/pubmed/25281999), NMDAR antagonist administration increase hyperconnectivity, but has no effect in chronic illness. 
 
 * 2014 SMALL Psychiatric Res (http://www.ncbi.nlm.nih.gov/pubmed/25288478), positive correlations were found between levels of social anhedonia and the thickness of the postcentral and the inferior parietal gyri
+
+* 2014 SMALL Schizophr Res, (http://www.ncbi.nlm.nih.gov/pubmed/25308834), vulnerability to schizophrenia includes smaller hippocampi and DMN suppression deficits, and these are associated with poorer WM. 
