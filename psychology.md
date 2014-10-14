@@ -5,6 +5,7 @@
 ### expressions
 
 * 2014 SMALL (http://www.ncbi.nlm.nih.gov/pubmed/25278104)  a SZ subgroup with predominantly paranoid symptoms that show  visuo-perceptual impairments
+* 2014 NA Front Psychiatry (http://www.ncbi.nlm.nih.gov/pubmed/25309458), Patients exhibited both impaired semantic and emotional prosodic comprehensions. However, they took greater advantage of emotional prosody adjunction
 
 ### mortality
 
