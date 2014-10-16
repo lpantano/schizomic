@@ -6,6 +6,7 @@
 * 2014 LARGE Mol Psychiatric, (http://www.ncbi.nlm.nih.gov/pubmed/24342994), molecular confirmation of the genetic overlap between SCZ and general cognitive ability
 * 2014 LARGE PLoS One, (http://www.ncbi.nlm.nih.gov/pubmed/24349030), cognitive functions share genetic factors with schizophrenia and bipolar disorder
 *2014 LARGE Hum Genet, (http://www.ncbi.nlm.nih.gov/pubmed/25284466), top three methylation findings near genes SDCCAG8, CREB1 and ATXN7 in an independent sample using targeted pyrosequencing
+*2014 LARGE Schizophr Res, (http://www.ncbi.nlm.nih.gov/pubmed/25311781), There is a fourteen fold-increased risk of psychosis and a sixteen fold increased risk of schizophrenia in individuals with micro-duplication at proximal 16p11.2
 
 ## SV
 
