@@ -6,7 +6,7 @@
 ###negative symptoms
 
 * 2014 NA Behav Brain Res, (http://www.ncbi.nlm.nih.gov/pubmed/25300471), the stimulation of the NMDA receptor through the glycine site on the receptor either directly with D-serine or by blocking glycine transporter-1 attenuates the immobility elicited by the subchronic administration of MK-801 and may be potentially useful for the treatment of negative symptoms of schizophrenia
-
+* 2014 SMALL, Neuropsychopharmacology, (http://www.ncbi.nlm.nih.gov/pubmed/25308351), nicotine intake might stabilise the impaired inhibition-facilitation balance in the schizophrenic brain through a complex interaction between cortical plasticity, and GABAergic and cholinergic neurotransmission
 
 ## consequences
 * 2014 SMALL Eur J Clin Pharmacol, (http://www.ncbi.nlm.nih.gov/pubmed/25291992), These results indicate that second-generation antipsychotics may influence OCM (body mass index (BMI), serum levels of total cholesterol (TC), low-density lipoproteins (LDL), triglycerides (TG) and tHcy), especially in first-episode schizophrenia (FES) males.
