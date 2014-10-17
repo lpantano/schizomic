@@ -10,3 +10,7 @@
 ### mortality
 
 * 2014 MEDIUM (http://www.ncbi.nlm.nih.gov/pubmed/25262443) schizophr bull , mortality gap in people with psychotic disorders remains huge and may be wider for unnatural-cause mortality than previously reported
+
+### mixup disorders
+
+* 2014, SMALL, Compr Psychiatry, (http://www.ncbi.nlm.nih.gov/pubmed/25308405), higher prevalence of OCS/OCD in schizophrenia.
