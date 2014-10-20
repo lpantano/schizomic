@@ -16,6 +16,6 @@
 
 * 2014, SMALL, Compr Psychiatry, (http://www.ncbi.nlm.nih.gov/pubmed/25308405), higher prevalence of OCS/OCD in schizophrenia.
 
-### skilss
+### skills
 
-*2014, LARGE, http://www.ncbi.nlm.nih.gov/pubmed/25274314, (Br J Psychiatry),The findings clearly demonstrate that the excess of non-right-handedness in schizophrenia does not result from a gender artefact or from biased handedness questionnaires
+* 2014, LARGE, http://www.ncbi.nlm.nih.gov/pubmed/25274314, (Br J Psychiatry),The findings clearly demonstrate that the excess of non-right-handedness in schizophrenia does not result from a gender artefact or from biased handedness questionnaires
