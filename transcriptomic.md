@@ -4,9 +4,8 @@
 
 ### mice models
 
-* 2014 DTNBP enhances fast excitatory glutamatergic transmission mediated by AMPA receptors in hippocampal CA3-CA1 synapses  (http://www.ncbi.nlm.nih.gov/pubmed/24321452)
-
-These data provide compelling evidence that dysbindin, a widely suspected susceptibility protein in schizophrenia, is important for AMPAR-mediated synaptic transmission and plasticity in the developing hippocampus. 
+* 2014,NA, ,(http://www.ncbi.nlm.nih.gov/pubmed/24321452), DTNBP enhances fast excitatory glutamatergic transmission mediated by AMPA receptors in hippocampal CA3-CA1 synapses. These data provide compelling evidence that dysbindin, a widely suspected susceptibility protein in schizophrenia, is important for AMPAR-mediated synaptic transmission and plasticity in the developing hippocampus. 
+* 2014,NA,Plos One, (http://www.ncbi.nlm.nih.gov/pubmed/25340473),abnormal sleep and certain (endo)phenotypes of psychiatric diseases may be caused by common mechanisms involving components of the molecular clock including SHARP1 and SHARP2
 
 ## miRNAs
 
