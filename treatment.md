@@ -16,3 +16,7 @@
 * 2014 NA Psychiatric Genet, (http://www.ncbi.nlm.nih.gov/pubmed/25304226), inverse correlation between the baseline BMI and change in BMI during long-term clozapine use in patients with schizophrenia, and the LEP-2548A/G polymorphism was associated significantly with both these measures.
 * 2014, SMALL, Rom J Morphol Embryol,(http://www.ncbi.nlm.nih.gov/pubmed/25329115),The CYP2D6 genotype in children and adolescents with schizophrenia and bipolar disorder, proved to be a good predictor for the response to atypical antipsychotics and the side effects registered. 
 * 2014, SMALL, J Psychopharmacol,(http://www.ncbi.nlm.nih.gov/pubmed/25336715),olanzapine-induced inflammation and adiposity are closely related
+
+## revision
+
+*2014, LARGE, Pharmacogenomics,(http://www.ncbi.nlm.nih.gov/pubmed/25340730), Across three psychiatric disorders (n = 2815 patients), we observed no consistent association between SULT4A1-1 status and atypical antipsychotic effect
