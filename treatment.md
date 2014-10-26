@@ -17,6 +17,9 @@
 * 2014, SMALL, Rom J Morphol Embryol,(http://www.ncbi.nlm.nih.gov/pubmed/25329115),The CYP2D6 genotype in children and adolescents with schizophrenia and bipolar disorder, proved to be a good predictor for the response to atypical antipsychotics and the side effects registered. 
 * 2014, SMALL, J Psychopharmacol,(http://www.ncbi.nlm.nih.gov/pubmed/25336715),olanzapine-induced inflammation and adiposity are closely related
 
+## resistence
+*2014, SMALL, Res Schizophrenia,(http://www.ncbi.nlm.nih.gov/pubmed/25278103),treatment with high-dose olanzapine (>20 mg/day) appears to be a good alternative to clozapine
+
 ## revision
 
 *2014, LARGE, Pharmacogenomics,(http://www.ncbi.nlm.nih.gov/pubmed/25340730), Across three psychiatric disorders (n = 2815 patients), we observed no consistent association between SULT4A1-1 status and atypical antipsychotic effect
