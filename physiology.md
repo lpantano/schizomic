@@ -1,4 +1,4 @@
-## brain sections
+# brain sections
 
 * Different subtypes affecting different sections
 [PMID:25261565](http://www.ncbi.nlm.nih.gov/pubmed/25261565)
@@ -10,3 +10,7 @@
 
 ## Cingulum bundle
 *2014, SMALL, Schizophr Res, (http://www.ncbi.nlm.nih.gov/pubmed/25311780), structural damage to the cingulum bundle may be involved in the etiology of delusions of control
+
+## substantia nigra
+
+*2014, SMALL, Schizophr Res, (http://www.ncbi.nlm.nih.gov/pubmed/25266549), We found substantia nigra hyperactivity associated with prefrontal hypofunction and prefrontonigral functional disconnectivity, as well as the magnitude of nigrostriatal functional connectivity positively correlating with severity of psychosis. 
