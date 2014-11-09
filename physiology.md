@@ -9,6 +9,9 @@
 * 2014, SMALL, Schizophr Res, (http://www.ncbi.nlm.nih.gov/pubmed/25308834), vulnerability to schizophrenia includes smaller hippocampi and DMN suppression deficits, and these are associated with poorer WM. 
 *2014, SMALL, 
 
+## prefontal cortex
+*2014, SMALL, Neuroimage Clin, (http://www.ncbi.nlm.nih.gov/pubmed/25379453),Significantly lower GABA/Cr ratios were found in patients with schizophrenia in the prefrontal cortex as compared to healthy controls, with GABA/Cr ratios inversely correlated with cognitive functioning in the patients.
+
 ## Cingulum bundle
 *2014, SMALL, Schizophr Res, (http://www.ncbi.nlm.nih.gov/pubmed/25311780), structural damage to the cingulum bundle may be involved in the etiology of delusions of control
 
