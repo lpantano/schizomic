@@ -7,7 +7,7 @@
 * 2014, SMALL, Biol Psychiatric , (http://www.ncbi.nlm.nih.gov/pubmed/25281999), NMDAR antagonist administration increase hyperconnectivity, but has no effect in chronic illness. 
 * 2014, SMALL, Psychiatric Res (http://www.ncbi.nlm.nih.gov/pubmed/25288478), positive correlations were found between levels of social anhedonia and the thickness of the postcentral and the inferior parietal gyri
 * 2014, SMALL, Schizophr Res, (http://www.ncbi.nlm.nih.gov/pubmed/25308834), vulnerability to schizophrenia includes smaller hippocampi and DMN suppression deficits, and these are associated with poorer WM. 
-*2014, SMALL, 
+*2014, SMALL, Neuroimage Clin, (http://www.ncbi.nlm.nih.gov/pubmed/25379425), The results of our study suggest a graded expression of verbal learning deficits accompanied by structural alterations within the hippocampus in BD patients and SZ patients, with SZ patients being more strongly affected.
 
 ## prefontal cortex
 *2014, SMALL, Neuroimage Clin, (http://www.ncbi.nlm.nih.gov/pubmed/25379453),Significantly lower GABA/Cr ratios were found in patients with schizophrenia in the prefrontal cortex as compared to healthy controls, with GABA/Cr ratios inversely correlated with cognitive functioning in the patients.
