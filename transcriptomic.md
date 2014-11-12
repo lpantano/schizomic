@@ -22,3 +22,5 @@
 * 2014 NA J Neurosc, (http://www.ncbi.nlm.nih.gov/pubmed/25297099) the function of dysbindin in the dynamic morphogenesis of dendritic protrusions, and reveal the essential roles of dysbindin and CaMKIIα in the stabilization of dendritic protrusions during neuronal development. 
 
 * 2014 SMALL, BMC Psychiatry, (http://www.ncbi.nlm.nih.gov/pubmed/25292222), GluN2B protein levels were decreased by 43% in the left hemisphere of schizophrenia subjects compared to controls 
+
+* 2014, SMALL, Schizophrenia res, (http://dx.doi.org/10.1016/j.schres.2014.10.031), suggest that higher mRNA levels for CXCR7, may represent a compensatory mechanism to sustain the migration and correct positioning of cortical parvalbumin and somatostatin GABA neurons 
