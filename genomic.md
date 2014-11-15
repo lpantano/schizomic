@@ -21,7 +21,9 @@
 * 2014, MEDIUM, Acta Neuropsychiatric, (http://www.ncbi.nlm.nih.gov/pubmed/25287875), substantially increased risk for sex(male)-onset schizophrenia by IL1RN2 variant (RS 1794068) in tunnisian population
 * 2014, MEDIUM, Transl Psychiatry, (http://www.ncbi.nlm.nih.gov/pubmed/25335168), rs4654899: an intronic SNP of EIF4G3 was found associated with the right SFG volume (regulating HP1BP3 and CAPN14)
 * 2014, MEDIUM, Int J Mol Sci, (http://www.ncbi.nlm.nih.gov/pubmed/25347278), rs6943555 (AUTS2) was determined to be associated with female SCZ. 
-*2014, LARGE, Schizophr bull, (http://www.ncbi.nlm.nih.gov/pubmed/25380769),  We found that MKL1 physically interacts with GSK3B, a protein encoded by a well-characterized schizophrenia susceptibility gene. Collectively, our results revealed that genetic variants in MKL1 might confer risk to schizophrenia.
+* 2014, LARGE, Schizophr bull, (http://www.ncbi.nlm.nih.gov/pubmed/25380769),  We found that MKL1 physically interacts with GSK3B, a protein encoded by a well-characterized schizophrenia susceptibility gene. Collectively, our results revealed that genetic variants in MKL1 might confer risk to schizophrenia.
+* 2014, MEDIUM, Plos one, (http://www.ncbi.nlm.nih.gov/pubmed/25393624),  L59P-PTPRA missense mutations, was only observed among patients of schizophrenia
+
 ### Methylation
 
 *2014, SMALL, Pharmacology,(http://www.ncbi.nlm.nih.gov/pubmed/25358668), The present study supports the hypothesis that impairment in the promoter region of GSTT and GSTP genes by hypermethylation may increase the risk of schizophrenia.
