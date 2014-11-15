@@ -23,6 +23,7 @@
 * 2014, MEDIUM, Int J Mol Sci, (http://www.ncbi.nlm.nih.gov/pubmed/25347278), rs6943555 (AUTS2) was determined to be associated with female SCZ. 
 * 2014, LARGE, Schizophr bull, (http://www.ncbi.nlm.nih.gov/pubmed/25380769),  We found that MKL1 physically interacts with GSK3B, a protein encoded by a well-characterized schizophrenia susceptibility gene. Collectively, our results revealed that genetic variants in MKL1 might confer risk to schizophrenia.
 * 2014, MEDIUM, Plos one, (http://www.ncbi.nlm.nih.gov/pubmed/25393624),  L59P-PTPRA missense mutations, was only observed among patients of schizophrenia
+* 2014, LARGE, Schizopht bull, (http://www.ncbi.nlm.nih.gov/pubmed/25392519), the PGRS was significantly higher in patients compared with healthy controls.  related to differences in frontal lobe brain activation between high and low working memory demand. 
 
 ### Methylation
 
