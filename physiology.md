@@ -17,4 +17,7 @@
 *2014, SMALL, Schizophr Res, (http://www.ncbi.nlm.nih.gov/pubmed/25266549), We found substantia nigra hyperactivity associated with prefrontal hypofunction and prefrontonigral functional disconnectivity, as well as the magnitude of nigrostriatal functional connectivity positively correlating with severity of psychosis. 
 
 ## Grey matter
-*2014, SMALL, Neuropsychobiology, (http://www.ncbi.nlm.nih.gov/pubmed/25358262), Patients with LOS and EOS showed decreased GM volumes in the right insula, left superior temporal gyrus and left orbitofrontal gyrus compared with healthy subjects. A longer duration of illness was associated with reduced GM volume in the temporal pole in patients with EOS.
+* 2014, SMALL, Neuropsychobiology, (http://www.ncbi.nlm.nih.gov/pubmed/25358262), Patients with LOS and EOS showed decreased GM volumes in the right insula, left superior temporal gyrus and left orbitofrontal gyrus compared with healthy subjects. A longer duration of illness was associated with reduced GM volume in the temporal pole in patients with EOS.
+
+## temporal gyrus
+* 2014, SMALL, Schizophrenia res, (http://dx.doi.org/10.1016/j.schres.2014.10.042), When compared with the healthy control group, both patient groups showed significantly reduced M100 and M200 source strength in both hemispheres and a symmetric M100 and M200 source pattern
