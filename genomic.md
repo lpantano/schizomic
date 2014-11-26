@@ -26,5 +26,6 @@
 * 2014, LARGE, Schizopht bull, (http://www.ncbi.nlm.nih.gov/pubmed/25392519), the PGRS was significantly higher in patients compared with healthy controls.  related to differences in frontal lobe brain activation between high and low working memory demand. 
 * 2014, SMALL, Mol Psychiatry, (http://www.ncbi.nlm.nih.gov/pubmed/25403839), increased mRNA expression of CACNA1C in iNs homozygous for the risk genotype (rs1006737)
 ### Methylation
-
-*2014, SMALL, Pharmacology,(http://www.ncbi.nlm.nih.gov/pubmed/25358668), The present study supports the hypothesis that impairment in the promoter region of GSTT and GSTP genes by hypermethylation may increase the risk of schizophrenia.
+* 2014, SMALL, Pharmacology,(http://www.ncbi.nlm.nih.gov/pubmed/25358668), The present study supports the hypothesis that impairment in the promoter region of GSTT and GSTP genes by hypermethylation may increase the risk of schizophrenia.
+* 2014, SMALL, (http://www.ncbi.nlm.nih.gov/pubmed/25420024), this study provides a list of 18 putative candidate genes for sporadic SCZ, and when combined with the results of similar reports, identifies a second proband carrying a non-synonymous DNV in the RGS12 gene
+* 2014, MEDIUM, (http://www.ncbi.nlm.nih.gov/pubmed/25416705), Our results suggest that reduced transcription and mTOR-regulated translation of certain DPYSL2 isoforms increase the risk for schizophrenia.3-SNP haplotype in the proximal promoter, two SNPs in intron 1, and a polymorphic dinucleotide repeat in the 5'-UTR which alters sequences predicted to be involved in translational regulation by mTOR signaling.
