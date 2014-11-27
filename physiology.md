@@ -9,6 +9,7 @@
 
 ## prefontal cortex
 *2014, SMALL, Neuroimage Clin, (http://www.ncbi.nlm.nih.gov/pubmed/25379453),Significantly lower GABA/Cr ratios were found in patients with schizophrenia in the prefrontal cortex as compared to healthy controls, with GABA/Cr ratios inversely correlated with cognitive functioning in the patients.
+* 2014, NA, Psychopharmacology,(http://www.ncbi.nlm.nih.gov/pubmed/25420610), Blocking GABAA receptors, but not inhibiting cortical GABA synthesis, within the medial PFC affects decision-making in the rGT. 
 
 ## Cingulum bundle
 *2014, SMALL, Schizophr Res, (http://www.ncbi.nlm.nih.gov/pubmed/25311780), structural damage to the cingulum bundle may be involved in the etiology of delusions of control
