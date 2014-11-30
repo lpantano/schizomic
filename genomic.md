@@ -29,3 +29,9 @@
 * 2014, SMALL, Pharmacology,(http://www.ncbi.nlm.nih.gov/pubmed/25358668), The present study supports the hypothesis that impairment in the promoter region of GSTT and GSTP genes by hypermethylation may increase the risk of schizophrenia.
 * 2014, SMALL, (http://www.ncbi.nlm.nih.gov/pubmed/25420024), this study provides a list of 18 putative candidate genes for sporadic SCZ, and when combined with the results of similar reports, identifies a second proband carrying a non-synonymous DNV in the RGS12 gene
 * 2014, MEDIUM, (http://www.ncbi.nlm.nih.gov/pubmed/25416705), Our results suggest that reduced transcription and mTOR-regulated translation of certain DPYSL2 isoforms increase the risk for schizophrenia.3-SNP haplotype in the proximal promoter, two SNPs in intron 1, and a polymorphic dinucleotide repeat in the 5'-UTR which alters sequences predicted to be involved in translational regulation by mTOR signaling.
+
+# Epigenomic
+
+## CpGs
+
+* 2014, MEDIUM, (http://www.ncbi.nlm.nih.gov/pubmed/25424713), 432 CpG sites with differential methylation levels that are associated with differential gene expression. SNP rs11191514:C>T, which regulates DNA methylation of calcium homeostasis modulator 1 that is also associated with differential gene expression in patients
