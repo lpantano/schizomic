@@ -24,3 +24,5 @@
 * 2014 SMALL, BMC Psychiatry, (http://www.ncbi.nlm.nih.gov/pubmed/25292222), GluN2B protein levels were decreased by 43% in the left hemisphere of schizophrenia subjects compared to controls 
 
 * 2014, SMALL, Schizophrenia res, (http://dx.doi.org/10.1016/j.schres.2014.10.031), suggest that higher mRNA levels for CXCR7, may represent a compensatory mechanism to sustain the migration and correct positioning of cortical parvalbumin and somatostatin GABA neurons 
+
+* 2104, SMALL, Schizophrenia res, (http://www.ncbi.nlm.nih.gov/pubmed/25487697), These genes were used in co-expression analysesthat revealed the pairs CCR1/SERPINA1, CCR5/HCST, C1QA/CD68, CCR5/S100A11 and SERPINA1/TLR1 as presenting the most significant difference in co-expression between SZ and BD.all having a role in the communication of environmental factors to the cells and associated to microglia
