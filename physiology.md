@@ -6,6 +6,7 @@
 * 2014, SMALL, Psychiatric Res (http://www.ncbi.nlm.nih.gov/pubmed/25288478), positive correlations were found between levels of social anhedonia and the thickness of the postcentral and the inferior parietal gyri
 * 2014, SMALL, Schizophr Res, (http://www.ncbi.nlm.nih.gov/pubmed/25308834), vulnerability to schizophrenia includes smaller hippocampi and DMN suppression deficits, and these are associated with poorer WM. 
 * 2014, SMALL, Neuroimage Clin, (http://www.ncbi.nlm.nih.gov/pubmed/25379425), The results of our study suggest a graded expression of verbal learning deficits accompanied by structural alterations within the hippocampus in BD patients and SZ patients, with SZ patients being more strongly affected.
+* 2015, NA, Front Hum Neurosci,(http://www.ncbi.nlm.nih.gov/pubmed/25566030), The loss of the cerebral torque and the abnormalities of gyrification, with an increased or more complex cortical folding in the right hemisphere may provide an anatomical basis for such aberrant connectivity in SCZ.
 
 ## prefontal cortex
 *2014, SMALL, Neuroimage Clin, (http://www.ncbi.nlm.nih.gov/pubmed/25379453),Significantly lower GABA/Cr ratios were found in patients with schizophrenia in the prefrontal cortex as compared to healthy controls, with GABA/Cr ratios inversely correlated with cognitive functioning in the patients.
