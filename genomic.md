@@ -33,6 +33,8 @@
 * 2015, 25653350, the mice exhibited SZ-like behavioral abnormalities with Synaptic Scaffolding Molecule CNV
 
 # Epigenomic
+* 2015, 23734059, 11 CpG sites significantly correlated with reality distortion symptoms
+
 
 ## CpGs
 
