@@ -31,7 +31,8 @@
 * 2014, MEDIUM, (http://www.ncbi.nlm.nih.gov/pubmed/25416705), Our results suggest that reduced transcription and mTOR-regulated translation of certain DPYSL2 isoforms increase the risk for schizophrenia.3-SNP haplotype in the proximal promoter, two SNPs in intron 1, and a polymorphic dinucleotide repeat in the 5'-UTR which alters sequences predicted to be involved in translational regulation by mTOR signaling.
 * 2104, LARGE, (http://www.ncbi.nlm.nih.gov/pubmed/25429046?), In genes associated with the control of miRNAs, there are approximately 50% more RVs in SZ cases than in controls (P ≤ 2.62E-10). dysregulation of miRNA systems resulting in the abnormal upregulation of genome transcription in the development of SZ
 * 2015, 25653350, the mice exhibited SZ-like behavioral abnormalities with Synaptic Scaffolding Molecule CNV
-
+* 2015, 25677649,these results suggest that Dtnbp1 deficiency may lead to increased vulnerability to schizophrenia under environmental conditions where circadian rhythms are altered.
+ 
 # Epigenomic
 * 2015, 23734059, 11 CpG sites significantly correlated with reality distortion symptoms
 
