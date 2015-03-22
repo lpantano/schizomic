@@ -25,6 +25,9 @@
 ## Grey matter
 * 2014, SMALL, Neuropsychobiology, (http://www.ncbi.nlm.nih.gov/pubmed/25358262), Patients with LOS and EOS showed decreased GM volumes in the right insula, left superior temporal gyrus and left orbitofrontal gyrus compared with healthy subjects. A longer duration of illness was associated with reduced GM volume in the temporal pole in patients with EOS.
 
+## white matter
+*2015, SMALL, 25786581,  The significant correlations between positive symptoms in schizophrenia and diffusion and NAAc measures suggest decreased axonal density with increased glial cells and higher myelination in this subpopulation. 
+
 ## temporal gyrus
 * 2014, SMALL, Schizophrenia res, (http://dx.doi.org/10.1016/j.schres.2014.10.042), When compared with the healthy control group, both patient groups showed significantly reduced M100 and M200 source strength in both hemispheres and a symmetric M100 and M200 source pattern
 
