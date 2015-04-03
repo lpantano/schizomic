@@ -12,3 +12,4 @@ immune molecules
 ## immune molecules
 * 2015, MEDIUM, 23934781, we were capable of separating schizophrenia patients into 2 significantly distinct subgroups with predominant molecular abnormalities in either immune molecules or growth factors and hormones
 * 2015, SMALL, 25827958, It appears that increased level of IL-23 in psychotic patients independently of antipsychotic therapy can be a constitutive marker in this disorder.
+* 2015, SMALL, 25834440, None of the investigated patients with an FEP and none of the healthy controls showed positive antibodies against NMDA-Rs.
