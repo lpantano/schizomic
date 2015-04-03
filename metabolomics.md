@@ -10,4 +10,5 @@ immune molecules
 * 2014, SMALL, Crisi , (http://www.ncbi.nlm.nih.gov/pubmed/25410258),  pregnenolone was significantly decreased in the parietal cortex in the combined group of patients with schizophrenia or bipolar disorder who died by suicide (n = 13) compared with patients with these disorders who died of other causes (n = 17, p = .02). 
 
 ## immune molecules
-* 2015, 23934781, we were capable of separating schizophrenia patients into 2 significantly distinct subgroups with predominant molecular abnormalities in either immune molecules or growth factors and hormones
+* 2015, MEDIUM, 23934781, we were capable of separating schizophrenia patients into 2 significantly distinct subgroups with predominant molecular abnormalities in either immune molecules or growth factors and hormones
+* 2015, SMALL, 25827958, It appears that increased level of IL-23 in psychotic patients independently of antipsychotic therapy can be a constitutive marker in this disorder.
