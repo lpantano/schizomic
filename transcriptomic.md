@@ -16,16 +16,10 @@
 ## mRNA
 
 * 2014 (http://www.ncbi.nlm.nih.gov/pubmed/25270546)  A significant decrease in GCH1 mRNA levels was observed in FEP (first episodes psychosis) patients relative to controls. This difference remains after treatment and it was correlated to methylation of its promoter
-
 * 2014 NA stem cell report , high level of catecholamine in iPSC Neurons from skin of schizophrenic people , 2F+1M vs 2M+1F, http://dx.doi.org/10.1016/j.stemcr.2014.08.001
-
 * 2014 SMALL J Psychiatric Res, (http://www.ncbi.nlm.nih.gov/pubmed/25282281), deregulation of OR and TASR gene expression in the dorsolateral prefrontal cortex in schizophrenia (inversely associated with the daily chlorpromazine dose). 
-
 * 2014 NA J Neurosc, (http://www.ncbi.nlm.nih.gov/pubmed/25297099) the function of dysbindin in the dynamic morphogenesis of dendritic protrusions, and reveal the essential roles of dysbindin and CaMKIIα in the stabilization of dendritic protrusions during neuronal development. 
-
 * 2014 SMALL, BMC Psychiatry, (http://www.ncbi.nlm.nih.gov/pubmed/25292222), GluN2B protein levels were decreased by 43% in the left hemisphere of schizophrenia subjects compared to controls 
-
 * 2014, SMALL, Schizophrenia res, (http://dx.doi.org/10.1016/j.schres.2014.10.031), suggest that higher mRNA levels for CXCR7, may represent a compensatory mechanism to sustain the migration and correct positioning of cortical parvalbumin and somatostatin GABA neurons 
-
 * 2104, SMALL, Schizophrenia res, (http://www.ncbi.nlm.nih.gov/pubmed/25487697), These genes were used in co-expression analysesthat revealed the pairs CCR1/SERPINA1, CCR5/HCST, C1QA/CD68, CCR5/S100A11 and SERPINA1/TLR1 as presenting the most significant difference in co-expression between SZ and BD.all having a role in the communication of environmental factors to the cells and associated to microglia
-
+* 2015, SMALL, 24713359, IL2RG mRNA expression was upregulated in peripheral blood of patients in comparison with controls (patients vs. controls, median [interquartile range]: 2.080 [3.428-1.046] vs. 0.324 [0.856-0.000], p<0.0001)
