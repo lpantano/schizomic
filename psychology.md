@@ -19,7 +19,8 @@
 ### skills
 
 * 2014, LARGE, http://www.ncbi.nlm.nih.gov/pubmed/25274314, (Br J Psychiatry),The findings clearly demonstrate that the excess of non-right-handedness in schizophrenia does not result from a gender artefact or from biased handedness questionnaires
-
+* 2015, SMAL, 24119791, Examining the associations between musical deficits, negative symptoms and cognitive imapirment in patients with schizophrenia may identify shared biological mechanisms.
 
 ### neurocognitive insight
+
 *2014, SMALL, Cogn Neuropsychiatry,(http://www.ncbi.nlm.nih.gov/pubmed/25359274),These results provide support for the hypothesis that executive dysfunctioning is a limiting factor for NI, independently from depressive and anxiety symptoms.
