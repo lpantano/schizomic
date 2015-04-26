@@ -24,3 +24,7 @@
 ### neurocognitive insight
 
 *2014, SMALL, Cogn Neuropsychiatry,(http://www.ncbi.nlm.nih.gov/pubmed/25359274),These results provide support for the hypothesis that executive dysfunctioning is a limiting factor for NI, independently from depressive and anxiety symptoms.
+
+### cognitive deficits
+
+*215, SMALL, 24480016, The results imply that social cognitive deficits in first-episode schizophrenia come in two distinct versions where one is a complex, cognitive demanding form linked with IQ. The other version is related to simpler forms of social cognition and independent of IQ.
