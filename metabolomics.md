@@ -4,6 +4,7 @@ immune molecules
 
 ## Infections
 * 2014, LARGE, Schizophr bull, (http://www.ncbi.nlm.nih.gov/pubmed/25385789), There was a significant increase in risk of positive T. gondii IgM antibodies in acute psychosis compared with controls. there was a significant association with geographic region
+* 2015, SMALL, 24850069, There were no significant differences in IGF-1 levels between groups. 
 
 ## Neurosteroids
 
