@@ -16,6 +16,7 @@
 * 2014, NA, 25420610, Blocking GABAA receptors, but not inhibiting cortical GABA synthesis, within the medial PFC affects decision-making in the rGT. 
 * 2015, SMALL, 25568120, early-course schizophrenia involves increased PFC glutamate, which might elevate PFC functional connectivity
 * 2015, SMALL, 25524710,  In the dorsolateral prefrontal cortex, long-interval cortical inhibition was significantly reduced in patients with schizophrenia compared to healthy subjects
+* 2015, SMALL, 25938885, the actin-related protein 2/3 complex (Arp2/3), we report here a molecular mechanism that unexpectedly reveals the inter-relationship of progressive spine pruning, elevated frontal cortical excitation of pyramidal neurons and striatal hyperdopaminergia in a cortical-to-midbrain circuit abnormality
 
 ## Cingulum bundle
 *2014, SMALL, Schizophr Res, (http://www.ncbi.nlm.nih.gov/pubmed/25311780), structural damage to the cingulum bundle may be involved in the etiology of delusions of control
