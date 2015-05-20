@@ -35,3 +35,6 @@
 
 ## cerebellum
 * 2015, 25640318, http://www.ncbi.nlm.nih.gov/pubmed/25640318?dopt=Abstract&utm_source=dlvr.it&utm_medium=twitter
+
+## thalamocortical system
+* 2015, NA, 25891221,The optogenetic experiments show that delta frequency stimulation of a thalamic nucleus is sufficient to produce deficits in WM.
