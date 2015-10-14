@@ -1,3 +1,6 @@
+# Cognitive
+* 2015, SMALL, 26452199, higher percentage of familiarity responses for SZP compared with HS from the stimuli with low levels of familiarity in the morph and a lower familiarity threshold
+
 # brain sections
 
 * 2014, NA, 25261565, pPOS were characterized by pronounced gray matter (GM) volume reductions in the ventromedial prefrontal cortex (vmPFC), which herein is defined to include the orbitofrontal cortex, and in occipitotemporal GM and parts of the lingual gyrus. 
