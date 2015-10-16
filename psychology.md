@@ -7,7 +7,9 @@
 * 2014 SMALL (http://www.ncbi.nlm.nih.gov/pubmed/25278104)  a SZ subgroup with predominantly paranoid symptoms that show  visuo-perceptual impairments
 * 2014 NA Front Psychiatry (http://www.ncbi.nlm.nih.gov/pubmed/25309458), Patients exhibited both impaired semantic and emotional prosodic comprehensions. However, they took greater advantage of emotional prosody adjunction
 * 2014, SMALL, Psychopathology, (http://www.ncbi.nlm.nih.gov/pubmed/25277690),observation of an action performed by an angry agent produced poorer neural activity in the right anterior insula in SCZ patients as compared to HCs. This difference was mostly due to the negative β-values shown by SCZ patients
-* 
+# Cognitive
+* 2015, SMALL, 26452199, higher percentage of familiarity responses for SZP compared with HS from the stimuli with low levels of familiarity in the morph and a lower familiarity threshold
+
 ### mortality
 
 * 2014 MEDIUM (http://www.ncbi.nlm.nih.gov/pubmed/25262443) schizophr bull , mortality gap in people with psychotic disorders remains huge and may be wider for unnatural-cause mortality than previously reported
