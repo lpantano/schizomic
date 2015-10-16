@@ -35,6 +35,7 @@
 * 2015, NA, 25653350, the mice exhibited SZ-like behavioral abnormalities with Synaptic Scaffolding Molecule CNV
 * 2015, NA, 25677649, these results suggest that Dtnbp1 deficiency may lead to increased vulnerability to schizophrenia under environmental conditions where circadian rhythms are altered.
 * 2015, MEDIUM, 25055870, We conclude that de novo CNVs play a smaller role in BD compared with SZ. Patients with a positive family history can also harbour de novo mutations.
+* 2015, MEDIUM, 25025909, ATTGCT/ATTGCT of PIP4K2A gene conferred approximately three-times higher incomplete responsiveness towards antipsychotics in severely ill patients. 
 
 # Epigenomic
 * 2015, 23734059, 11 CpG sites significantly correlated with reality distortion symptoms
