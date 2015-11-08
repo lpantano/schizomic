@@ -5,8 +5,8 @@
 * 2014,NA,25219520, The authors identified 42 SNP sets associated with a 70% or greater risk of schizophrenia, and confirmed 34 (81%) or more with similar high risk of schizophrenia in two independent samples.
 * 2014,LARGE,24342994, molecular confirmation of the genetic overlap between SCZ and general cognitive ability
 * 2014,LARGE,24349030, cognitive functions share genetic factors with schizophrenia and bipolar disorder
-*2014,LARGE,25284466, top three methylation findings near genes SDCCAG8, CREB1 and ATXN7 in an independent sample using targeted pyrosequencing
-*2014,LARGE,25311781, There is a fourteen fold-increased risk of psychosis and a sixteen fold increased risk of schizophrenia in individuals with micro-duplication at proximal 16p11.2
+* 2014,LARGE,25284466, top three methylation findings near genes SDCCAG8, CREB1 and ATXN7 in an independent sample using targeted pyrosequencing
+* 2014,LARGE,25311781, There is a fourteen fold-increased risk of psychosis and a sixteen fold increased risk of schizophrenia in individuals with micro-duplication at proximal 16p11.2
 
 ## SV
 
@@ -26,7 +26,8 @@
 * 2014, LARGE,25392519, the PGRS was significantly higher in patients compared with healthy controls.  related to differences in frontal lobe brain activation between high and low working memory demand. 
 * 2014, SMALL,25403839, increased mRNA expression of CACNA1C in iNs homozygous for the risk genotype (rs1006737)
 * 2015, SMALL, 24491686, significant allelic and haplotypic associations between LSAMP gene and schizophrenia.
-* 2015, MEDIOM, 25101272,  there was a higher prevalence of MTHFR C677T polymorphism than healthy subjects
+* 2015, MEDIUM, 25101272,  there was a higher prevalence of MTHFR C677T polymorphism than healthy subjects
+* 2015, SMALL, 25079070, Our data may provide evidence for the effect of VRK2 on WM connectivity in patients with schizophrenia.
 
 # Epigenomic
 
